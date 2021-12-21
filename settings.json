@@ -1,18 +1,18 @@
 {
     "self_mode": false,
 	"autobio": false,
-	"antihidetag": true,
+	"antihidetag": false,
 	"user_register": true,
 	"anti_delete" : false,
 	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"ΛᄂPΉΛ BӨƬ",
+	"ownerNumber": "6288980893843",
+	"ownerNumberr": "6288980893843",
+	"cr": "@Pamour Mahardhika",
+	"ownername": "DIKA",
+	"botname":"Asisten Dika",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ΛᄂPΉΛ BӨƬ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  ASISTEN DIKA  」\nCreated By @Pamour Mahardhika"
 }
